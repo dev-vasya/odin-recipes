@@ -16,9 +16,7 @@ h1{
     text-align: center;
 }
 
-ul,ol{
-    list-style: none;
-}
+
 a{
     text-decoration: none;
     color: #17252A;
@@ -27,4 +25,16 @@ a{
 
 li{
     font-size: 25px;
+}
+
+body{
+    background-color: #aaadad;
+    color: #17252A;
+}
+.header-section{
+    font-weight: 700;
+    font-size: 25px;
+}
+.headers-info{
+    font-size: 18px;
 }
