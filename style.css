@@ -26,9 +26,6 @@ a{
     font-weight: 700;
 }
 
-li{
-    font-size: 25px;
-}
 
 body{
     background-color: #aaadad;
@@ -53,4 +50,24 @@ body{
 }
 .main-list li a {
     padding: 30px;
+}
+
+/* Meal page */
+.meal-img{
+    display: block;
+    margin: 0 auto;
+}
+.wrapper-section{
+    padding: 10px;
+    margin: 20px 10px;
+}
+.wrapper-section h3{
+    margin-bottom: 5px;
+}
+.wrapper-section p{
+    margin-bottom: 10px;
+}
+.list-ingredients li{
+    font-size: 18px; 
+    margin-left: 20px;
 }
