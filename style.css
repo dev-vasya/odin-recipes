@@ -41,7 +41,13 @@ body{
 .sushi{
     padding: 12px;
 }
-
+.pizza{
+    padding: 12px;
+}
+div .pizza{
+    font-weight: bold;
+    padding: 2px;
+}
 /* main page  */
 .main-header{
     padding: 15px;
