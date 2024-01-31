@@ -3,7 +3,10 @@
  #3AAFA9 background 
  #DEF2F1  blur White
  #FEFFFF white +-*/
-
+*{
+    margin: 0;
+    padding: 0;
+}
 body { 
     font-family: sans-serif;
     background-color: #3AAFA9;
@@ -37,4 +40,17 @@ body{
 }
 .headers-info{
     font-size: 18px;
+}
+
+/* main page  */
+.main-header{
+    padding: 15px;
+}
+
+.main-list li{
+    display: inline-block;
+    
+}
+.main-list li a {
+    padding: 30px;
 }
